@@ -1,0 +1,23 @@
+---
+layout: page
+title: About me
+permalink: /about/
+---
+
+  | ![Profile picture](../images/profilbild.jpg)    |||||||||||||||||||||||| ![Truck picture](../images/dhc201_flisBig.jpg)|
+
+
+  Started out as a playful kid in Åkersberga, just outside of Stockholm, Sweden. 
+
+  Around the age of 10 my fascination for computers and games had already started taking its roots, and at around the age of 13 I was already sitting in front of a computer more than my parents ever wanted me to.
+
+  So, when the time to pick a gymnasium came it wasn't very hard, i went for an education in IT at Åva gymnasium in Täby, 
+  and when I finally finished that, I set out to start an education in "Computer and System Science" at the Stockholm University in their locals in Kista.
+
+  This didn't quite pan out though, mostly due to a death in the family and the lack of motivation.
+
+  So, this put me on another path, one that was bound to the fact that my father owns a Transport company, and thus, I aquired license after license and ended up with 10+ years in the transport section, with licenses for cars, trucks, trailers aswell as motorcycles.
+
+  With money in my pocket from working, an interest for travelling also peaked, so I've travelled wide and far, the US, Australia, and 7000km+ by motorcycle through Europe to name a few. Somewhere at the end I tried out working as a driver in Berlin, Germany -- but salary and working conditions was way lower than in Sweden, at least I managed to learn the language to some degree.
+  
+  After this I decided that it was time for something new, or.. something old?  I went back to something that intruiged me as young, so 12 years later, i'm now back in the "schoolbench" and learning programming with distance-studies at Linnéuniversitet, Kalmar.

@@ -10,6 +10,16 @@
   position: relative;
 }
 
+.background {
+  background: url("../images/background4.jpg");
+  background-size: 100%;
+}
+.wrapper {
+  margin-top: 25px;
+  padding: 15px;
+  background: url("../images/background2.jpg");
+  border-radius: 2px;
+}
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -23,7 +33,6 @@
     color: $grey-color-dark;
   }
 }
-
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
