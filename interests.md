@@ -3,7 +3,7 @@ layout: page
 title: Interests 
 permalink: /interests/
 --- 
-### My interests involes the following:
+### My interests involves the following:
 1. Boardgames
 2. Computer Games
 3. Computers
