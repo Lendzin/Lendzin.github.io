@@ -3,7 +3,7 @@
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
-dl, dd, ol, ul, figure, a, img {
+dl, dd, ol, ul, figure, a,{
   margin: 0px;
   padding: 0px;
   background-color: #000;
@@ -44,6 +44,10 @@ ul, ol, dl, figure,
 img {
   max-width: 100%;
   vertical-align: middle;
+  margin-left: 20px;
+  margin-right: 120px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 
@@ -94,12 +98,12 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: darken($brand-color, 25%);
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: rgb(34, 154, 190);
+    text-decoration: none;
   }
 
   .social-media-list &:hover {
