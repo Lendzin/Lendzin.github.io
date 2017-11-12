@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Robots.txt and Humans.txt and Open Graph?"
+date:   2017-11-13 14:53:32 +0700
+categories: jekyll update
+---
+So..Including a Robots.txt, I'm not sure its something that I actually care about, I mean, sure I've got one for this project, and its setup to as a "you shall not pass"-statement for "robots" (bots), and not go through this site, but since it doesnt stop malevolent bots to do it, I dont really see the point in having a robots.txt in the first place.  Since I tend not really to care about the content they'd be viewing or information they'd gather.
+
+Now about.. Including a Humans.txt, is also something I'm not really concerned about for this page, but I've also added one for the sake of adding one, this file is meant to show who's behind the webpage, which would be me in this case - and I guess anyone who would be in on the project, who i'd like to thank, and when it was updated, which language, what I used to configure it and so forth.  So, specifically for this site, I can't say its extremely required, for a larger site, its just to make people that actually are aware of a sites humans.txt to show there are are people behind it, and who they are.  (but for the main viewers its obviously not something most people would care about, or ever see). But for the sake of things, I've added it with creator, contact, twitter, country, language, doctype, IDE and last update.
+
+And then.. Open Graph, another piece of in my case somewhat trivial things to add to a site, yes, I do get it -- today we want to be able to share things, easy and quick, and open graph does help with that, it would generate a small little template with text, picture and information that the creator for the site specifies for the section that they link to, on community sites such as facebook, twitter and so forth.  But, for me - as a user that would be sharing things, its not a "necessity", and sometimes it's even annoying when it pops up in facebook for example.   But, it's a thing - hence I guess it should be done, at least for certain specific projects where you want to have quick sharable information. (On this site, again, it doesn't really make that much sense -- but its there.)  And in this specific situation I've added it with the most basic information possible.

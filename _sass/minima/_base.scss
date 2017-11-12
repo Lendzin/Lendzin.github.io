@@ -8,6 +8,7 @@ dl, dd, ol, ul, figure, a,{
   padding: 0px;
   background-color: #000;
   border-radius: 1px;
+  
 }
 /**
  * Basic styling
@@ -24,7 +25,25 @@ body {
   font-kerning: normal;
 }
 
+.unselectable {
+  
+-webkit-user-select: none; /* Safari */        
+-moz-user-select: none; /* Firefox */
+-ms-user-select: none; /* IE10+/Edge */
+user-select: none; /* Standard */
 
+}
+
+.background {
+  background: url("../images/background4.jpg");
+  background-size: cover;
+}
+.wrapper {
+  margin-top: 25px;
+  padding: 15px;
+  background: url("../images/background2.jpg");
+  border-radius: 2px;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
