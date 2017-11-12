@@ -2,7 +2,7 @@
 layout: post
 title:  "Robots.txt and Humans.txt and Open Graph?"
 date:   2017-11-13 14:53:32 +0700
-categories: jekyll update
+categories: update
 ---
 So..Including a Robots.txt, I'm not sure its something that I actually care about, I mean, sure I've got one for this project, and its setup to as a "you shall not pass"-statement for "robots" (bots), and not go through this site, but since it doesnt stop malevolent bots to do it, I dont really see the point in having a robots.txt in the first place.  Since I tend not really to care about the content they'd be viewing or information they'd gather.
 
