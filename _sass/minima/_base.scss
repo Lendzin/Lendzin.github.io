@@ -25,25 +25,6 @@ body {
   font-kerning: normal;
 }
 
-.unselectable {
-  
--webkit-user-select: none; /* Safari */        
--moz-user-select: none; /* Firefox */
--ms-user-select: none; /* IE10+/Edge */
-user-select: none; /* Standard */
-
-}
-
-.background {
-  background: url("../images/background4.jpg");
-  background-size: cover;
-}
-.wrapper {
-  margin-top: 25px;
-  padding: 15px;
-  background: url("../images/background2.jpg");
-  border-radius: 2px;
-}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -191,6 +172,11 @@ pre {
   margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
+  margin-top: 25px;
+  padding: 15px;
+  background: url("../images/background2.jpg");
+  background-size: cover;
+  border-radius: 2px;
   @extend %clearfix;
 
   @include media-query($on-laptop) {
